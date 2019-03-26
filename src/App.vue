@@ -63,4 +63,7 @@ export default {
     color: #2c3e50;
     margin-top: 60px;
   }
+  button {
+    color: #222;
+  }
 </style>
